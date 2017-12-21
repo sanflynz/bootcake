@@ -1,0 +1,29 @@
+
+
+/* Show it is fixed to the top for bootstrap */
+body {
+  min-height: 75rem;
+  padding-top: 6rem;
+  background-color: #F4F4F4;
+}
+
+a:link, a:visited, a:active{
+	color: #373737;
+}
+a:hover{
+	color: #C08283;
+}
+
+
+/*  USERS   */
+.user-bio-head{
+	background-color: #DCD0C0;
+}
+.user-bio-name{
+	font-size: 18px;
+	font-weight: bold;
+
+}
+.tab-pane{
+	padding: 10px;
+}
